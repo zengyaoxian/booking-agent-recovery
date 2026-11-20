@@ -1,0 +1,2 @@
+# Python 3.8 or newer. Verified with Python 3.12.14.
+# The runner and offline verifier use only the Python standard library.
